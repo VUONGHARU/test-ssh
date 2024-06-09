@@ -1,2 +1,2 @@
-test ssh sua file tai may tinh lan thu 3
+test ssh sua file tai may tinh thu lam laij xem co xung dot khong
 
