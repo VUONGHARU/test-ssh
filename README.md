@@ -1,2 +1,2 @@
-test ssh tai lan thu n
+test ssh sua file tai may tinh
 
